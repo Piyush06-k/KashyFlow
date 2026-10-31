@@ -2,7 +2,6 @@
 
 A web application for tracking income and expenses, setting category budgets, and understanding personal spending habits at a glance.
 
-**Project link:** [Open in Google AI Studio](https://ai.studio/apps/0c5d71b4-2e88-447f-bd28-b6aa823d663f)
 
 ---
 
@@ -20,7 +19,7 @@ A web application for tracking income and expenses, setting category budgets, an
 - [Roadmap](#roadmap)
 - [FAQ](#faq)
 - [License](#license)
-- [Author](#author)
+
 
 ---
 
@@ -51,7 +50,3 @@ Most people know roughly what they earn but not where it goes. Spreadsheets are 
 | Budget Alerts | Get a visible warning as a category approaches or exceeds its limit. |
 | Search and Filter | Find transactions
 Distributed under the MIT License. See LICENSE for details.
-
-Author
-
-Your Name GitHub: @your-username
