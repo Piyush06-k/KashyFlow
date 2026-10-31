@@ -1,0 +1,27 @@
+[
+  {
+    "id": "usr_owner_01",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@kashflow.io",
+    "password": "kashflow123",
+    "role": "Vault Owner",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&h=160&q=80",
+    "createdAt": "2026-09-28T16:26:50.533Z",
+    "currency": "INR",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "usr_demo_02",
+    "name": "Piyush Kumar",
+    "email": "demo@kashflow.io",
+    "password": "demo123",
+    "role": "Personal Account",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=vault_investor",
+    "createdAt": "2026-09-28T16:26:50.533Z",
+    "phone": "+91 98765 43210",
+    "jobTitle": "Financial Manager",
+    "currency": "INR",
+    "timezone": "Asia/Kolkata",
+    "lastModified": "2026-09-28T16:55:00.000Z"
+  }
+]

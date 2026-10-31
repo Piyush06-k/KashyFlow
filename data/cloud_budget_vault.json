@@ -1,0 +1,29 @@
+{
+  "version": 40,
+  "lastSyncedAt": "2026-09-28T16:55:00.000Z",
+  "deviceId": "clean-empty-vault",
+  "data": {
+    "transactions": [],
+    "categories": [
+      { "id": "cat-housing", "name": "Housing & Rent", "budgetLimit": 0, "color": "#3B82F6", "icon": "Home", "type": "essential" },
+      { "id": "cat-groceries", "name": "Groceries & Food", "budgetLimit": 0, "color": "#10B981", "icon": "ShoppingCart", "type": "essential" },
+      { "id": "cat-dining", "name": "Dining & Drinks", "budgetLimit": 0, "color": "#F59E0B", "icon": "Utensils", "type": "discretionary" },
+      { "id": "cat-transport", "name": "Transportation", "budgetLimit": 0, "color": "#8B5CF6", "icon": "Car", "type": "essential" },
+      { "id": "cat-utilities", "name": "Utilities & Bills", "budgetLimit": 0, "color": "#06B6D4", "icon": "Zap", "type": "essential" },
+      { "id": "cat-entertainment", "name": "Entertainment & Subs", "budgetLimit": 0, "color": "#EC4899", "icon": "Tv", "type": "discretionary" },
+      { "id": "cat-health", "name": "Health & Wellness", "budgetLimit": 0, "color": "#14B8A6", "icon": "HeartPulse", "type": "essential" },
+      { "id": "cat-shopping", "name": "Shopping & Gear", "budgetLimit": 0, "color": "#F97316", "icon": "ShoppingBag", "type": "discretionary" },
+      { "id": "cat-savings", "name": "Savings & Investments", "budgetLimit": 0, "color": "#10B981", "icon": "TrendingUp", "type": "savings" }
+    ],
+    "accounts": [],
+    "bills": [],
+    "goals": [],
+    "monthlyBudgetTotal": 0,
+    "savingsTarget": 0,
+    "currency": "INR",
+    "biometricEnabled": false,
+    "biometricPin": "1234",
+    "autoLockMinutes": 15,
+    "lastModified": "2026-09-28T16:55:00.000Z"
+  }
+}

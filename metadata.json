@@ -1,0 +1,8 @@
+{
+  "name": "Remix KashFlow Personal Budget Manager",
+  "description": "Comprehensive personal budget manager with machine learning spending forecasts, bank synchronization, biometric security, monthly spending reports, and real-time offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
