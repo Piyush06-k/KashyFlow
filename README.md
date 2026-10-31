@@ -49,4 +49,6 @@ Most people know roughly what they earn but not where it goes. Spreadsheets are 
 | Spending Insights | Review charts and summaries that highlight top categories and month-over-month changes. |
 | Budget Alerts | Get a visible warning as a category approaches or exceeds its limit. |
 | Search and Filter | Find transactions
-Distributed under the MIT License. See LICENSE for details.
+
+
+## Distributed under the MIT License. See LICENSE for details.
